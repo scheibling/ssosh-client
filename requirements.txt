@@ -2,3 +2,5 @@ sshkey_tools
 click
 requests
 cprint
+sshconf
+lineinfile
